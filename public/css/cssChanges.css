@@ -1,0 +1,101 @@
+.vue-div{
+  background-color:#f8fafc;
+}
+
+.navbar {
+    background-color: #263238;
+}
+
+.navbar-dark .navbar-brand {
+    color: #F9A825;
+  }
+  
+  .navbar-dark .navbar-brand:hover,
+  .navbar-dark .navbar-brand:focus {
+    color: rgba(249, 168, 37, 0.9);
+  }
+
+.btn-outline-success {
+    background-color: #F9A825;
+    color: #fff;
+    border-color: #F9A825;
+  }
+  
+  .btn-outline-success:hover {
+    color: #fff;
+    background-color: rgba(249, 168, 37, 0.9);
+    border-color: rgba(249, 168, 37, 0.9);
+  }
+  
+  .btn-outline-success:focus,
+  .btn-outline-success.focus {
+    box-shadow: 0 0 0 0.2rem rgba(249, 168, 37, 0.5);
+  }
+  
+  .btn-outline-success.disabled,
+  .btn-outline-success:disabled {
+    color: #F9A825;
+    background-color: transparent;
+  }
+  
+  .btn-outline-success:not(:disabled):not(.disabled):active,
+  .btn-outline-success:not(:disabled):not(.disabled).active,
+  .show > .btn-outline-success.dropdown-toggle {
+    color: #fff;
+    background-color: #F9A825;
+    border-color: #F9A825;
+  }
+  
+  .btn-outline-success:not(:disabled):not(.disabled):active:focus,
+  .btn-outline-success:not(:disabled):not(.disabled).active:focus,
+  .show > .btn-outline-success.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(249, 168, 37, 0.5);
+  }
+
+
+  .btn-primary {
+    color: #fff;
+    background-color: #F9A825;
+    border-color: #F9A825;
+  }
+  
+  .btn-primary:hover {
+    color: #fff;
+    background-color: rgba(249, 168, 37, 0.9);
+    border-color: rgba(249, 168, 37, 0.9);
+  }
+  
+  .btn-primary:focus,
+  .btn-primary.focus {
+    color: #fff;
+    background-color: #F9A825;
+    border-color: #F9A825;
+    box-shadow: 0 0 0 0.2rem rgba(249, 168, 37, 0.5);
+  }
+  
+  .btn-primary.disabled,
+  .btn-primary:disabled {
+    color: #fff;
+    background-color: #F9A825;
+    border-color: #F9A825;
+  }
+  
+  .btn-primary:not(:disabled):not(.disabled):active,
+  .btn-primary:not(:disabled):not(.disabled).active,
+  .show > .btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #F9A825;
+    border-color: #F9A825;
+  }
+  
+  .btn-primary:not(:disabled):not(.disabled):active:focus,
+  .btn-primary:not(:disabled):not(.disabled).active:focus,
+  .show > .btn-primary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(249, 168, 37, 0.5);
+  }
+
+  footer{
+    background-color:#263238;
+    color: #F9A825;
+    text-align: center;
+  }
